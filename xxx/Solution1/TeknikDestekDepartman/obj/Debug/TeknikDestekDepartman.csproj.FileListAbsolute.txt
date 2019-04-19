@@ -1,0 +1,16 @@
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.Properties.Resources.resources
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.csproj.GenerateResource.cache
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\bin\Debug\TeknikDestekDepartman.exe.config
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\bin\Debug\TeknikDestekDepartman.exe
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\bin\Debug\TeknikDestekDepartman.pdb
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\bin\Debug\EntityFramework.dll
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\bin\Debug\EntityFramework.xml
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.csproj.CopyComplete
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.exe
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.pdb
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.Form1.resources
+C:\Users\iau\source\repos\Solution1\TeknikDestekDepartman\obj\Debug\TeknikDestekDepartman.Tickettt.resources

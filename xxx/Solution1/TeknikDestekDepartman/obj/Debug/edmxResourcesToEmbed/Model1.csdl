@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TeknikDepartmanModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Ticket">
+    <Key>
+      <PropertyRef Name="TicketID" />
+    </Key>
+    <Property Name="TicketID" Type="Int32" Nullable="false" />
+    <Property Name="Subjet" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="CustomerName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ProductName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="SolvedBy" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Solved" Type="Boolean" />
+    <Property Name="TimeCreated" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="TeknikDepartmanEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ticket" EntityType="Self.Ticket" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+  </EntityContainer>
+</Schema>
